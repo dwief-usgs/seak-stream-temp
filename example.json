@@ -6,9 +6,9 @@
       "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/0"
     },
     {
-      "name": "Active, Continuous Sensors - Waterbody type ",
+      "name": "ALL Sensors, historic and current data, Continuous",
       "type": "esri-featureServer",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/1",
+      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/6",
       "description": "test"
     }
   ]
