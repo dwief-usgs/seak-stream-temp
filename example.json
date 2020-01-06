@@ -14,11 +14,7 @@
           "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/arcgis/rest/services/AKOATS/FeatureServer",
           "opacity": 0.5,
           "keepOnTop": true,
-          "parameters": {
-            "tiled": true
-          },
           "zoomOnEnable": true,
-          "dataUrlType": "none",
           "description": "Continuous Sensors - by Organization",
           "dataCustodian": "[AKOATS](https://accscatalog.uaa.alaska.edu/dataset/akoats/resource/a6e8d984-c0c3-41b6-bcb4-1a4ad195846f)",
           "info": [
