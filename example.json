@@ -1,0 +1,35 @@
+{
+  "catalog": [
+    {
+      "type": "group",
+      "name": "SE AK Stream Temp test",
+      "isPromoted": true,
+      "isOpen": true,
+      "preserveOrder": true,
+      "items": [
+        {
+          "name": "Test temp",
+          "isEnabled": true,
+          "type": "wfs",
+          "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/arcgis/rest/services/AKOATS/FeatureServer",
+          "layers": "STATUS: Active, Continuous Sensors - by Organization",
+          "opacity": 0.5,
+          "keepOnTop": true,
+          "parameters": {
+            "tiled": true
+          },
+          "zoomOnEnable": true,
+          "dataUrlType": "none",
+          "description": "Continuous Sensors - by Organization",
+          "dataCustodian": "[AKOATS](https://accscatalog.uaa.alaska.edu/dataset/akoats/resource/a6e8d984-c0c3-41b6-bcb4-1a4ad195846f)",
+          "info": [
+            {
+              "name": "Dislcaimer",
+              "content": "example disclaimer here."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
