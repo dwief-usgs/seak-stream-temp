@@ -3,14 +3,11 @@
     {
       "name": "Active, Continuous Sensors - by Organization ",
       "type": "esri-featureServer",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/0",
-      "isEnabled": true,
-      "isLegendVisible": true,
-      "isShown": true
+      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/0"
     },
     {
       "name": "STATUS: Active, Continuous Sensors - Waterbody type ",
-      "type": "group",
+      "type": "esri-featureServer",
       "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/1",
       "description": "test"
     }
