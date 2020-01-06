@@ -11,7 +11,7 @@
           "name": "Test temp",
           "isEnabled": true,
           "type": "wfs",
-          "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/arcgis/rest/services/AKOATS/FeatureServer",
+          "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/arcgis/rest/services/AKOATS/FeatureServer/0",
           "layers": "STATUS: Active, Continuous Sensors - by Organization",
           "opacity": 0.5,
           "keepOnTop": true,
