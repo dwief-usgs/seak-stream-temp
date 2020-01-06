@@ -2,8 +2,8 @@
   "catalog": [
     {
       "name": "test",
-      "type": "esri-featureServer-group",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer"
+      "type": "esri-featureServer",
+      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/6"
     }
   ]
 }
