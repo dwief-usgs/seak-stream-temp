@@ -1,15 +1,16 @@
 {
   "catalog": [
     {
-      "name": "Active, Continuous Sensors - by Organization ",
+      "name": "STATUS: Active, Continuous Sensors",
       "type": "esri-featureServer",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/0"
+      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/1",
+      "displayChoicesBeforeLegend": true
     },
     {
-      "name": "ALL Sensors, historic and current data, Continuous",
+      "name": "STATUS: Inactive, Continuous Sensors",
       "type": "esri-featureServer",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/6",
-      "description": "test"
+      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/2",
+      "description": "test - inactive continuous sensors"
     }
   ]
 }
