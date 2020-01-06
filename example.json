@@ -12,7 +12,6 @@
           "isEnabled": true,
           "type": "esri-featureServer-group",
           "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/arcgis/rest/services/AKOATS/FeatureServer",
-          "layers": "STATUS: Active, Continuous Sensors - by Organization",
           "opacity": 0.5,
           "keepOnTop": true,
           "parameters": {
