@@ -1,9 +1,9 @@
 {
   "catalog": [
     {
-      "name": "test",
+      "name": "AKOATS-STATUS:Active",
       "type": "esri-featureServer",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/6"
+      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/0"
     }
   ]
 }
