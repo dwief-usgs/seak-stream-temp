@@ -1,7 +1,7 @@
 {
   "catalog": [
     {
-      "name": "STATUS: Active, Continuous Sensors",
+      "name": "AKOATS",
       "type": "esri-featureServer-group",
       "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/",
       "useStyleInformationFromService": true,
