@@ -6,12 +6,6 @@
       "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/1",
       "displayChoicesBeforeLegend": true,
       "useStyleInformationFromService": true
-    },
-    {
-      "name": "STATUS: Inactive, Continuous Sensors",
-      "type": "esri-featureServer",
-      "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/2",
-      "description": "test - inactive continuous sensors"
     }
   ]
 }
