@@ -5,7 +5,8 @@
       "type": "esri-featureServer",
       "url": "https://services7.arcgis.com/DlE4MSUhoXlyq64t/ArcGIS/rest/services/AKOATS/FeatureServer/1",
       "displayChoicesBeforeLegend": true,
-      "useStyleInformationFromService": true
+      "useStyleInformationFromService": true,
+      "description": "test description"
     }
   ]
 }
